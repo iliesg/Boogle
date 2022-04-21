@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Boogle_Gourri_TDI/1.0.0": {
+        "runtime": {
+          "Boogle_Gourri_TDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boogle_Gourri_TDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

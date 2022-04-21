@@ -1,0 +1,13 @@
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\bin\Debug\netcoreapp3.1\Boogle_Gourri_TDI.exe
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\bin\Debug\netcoreapp3.1\Boogle_Gourri_TDI.deps.json
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\bin\Debug\netcoreapp3.1\Boogle_Gourri_TDI.runtimeconfig.json
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\bin\Debug\netcoreapp3.1\Boogle_Gourri_TDI.runtimeconfig.dev.json
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\bin\Debug\netcoreapp3.1\Boogle_Gourri_TDI.dll
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\bin\Debug\netcoreapp3.1\Boogle_Gourri_TDI.pdb
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\obj\Debug\netcoreapp3.1\Boogle_Gourri_TDI.csprojAssemblyReference.cache
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\obj\Debug\netcoreapp3.1\Boogle_Gourri_TDI.AssemblyInfoInputs.cache
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\obj\Debug\netcoreapp3.1\Boogle_Gourri_TDI.AssemblyInfo.cs
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\obj\Debug\netcoreapp3.1\Boogle_Gourri_TDI.csproj.CoreCompileInputs.cache
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\obj\Debug\netcoreapp3.1\Boogle_Gourri_TDI.dll
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\obj\Debug\netcoreapp3.1\Boogle_Gourri_TDI.pdb
+C:\Users\Ilies\Desktop\Boogle_Gourri_TDI\Boogle_Gourri_TDI\obj\Debug\netcoreapp3.1\Boogle_Gourri_TDI.genruntimeconfig.cache
